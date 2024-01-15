@@ -1,15 +1,18 @@
-# Cypress-Fundamentals
-Code repo for Pluralsight course Cypress 9 Fundamentals by Adhithi Ravichandran
+# Cypress Fundamentals
 
-Course on Pluralsight: https://app.pluralsight.com/library/courses/cypress-9-fundamentals/
+This repository contains the codebase for the Pluralsight course "Cypress 9 Fundamentals" by Adhithi Ravichandran.
 
-Use as base of code to learn Cypress.
+**Course Link:** [Cypress 9 Fundamentals on Pluralsight](https://app.pluralsight.com/library/courses/cypress-9-fundamentals/)
 
-Test from Pluralsight are located on the GlobomaticsTests folder
+## Overview
 
-Test on the folder PracticalExercisesTests are excercises from the following link:
+Use this code repository as a foundational resource to learn Cypress, a powerful end-to-end testing framework. Adhithi Ravichandran's course on Pluralsight provides comprehensive coverage of Cypress 9 Fundamentals.
 
-https://test-design.org/practical-exercises/
+### Test Locations
 
+1. **Globomatics Tests:**
+   - Test scripts related to the Pluralsight course are located in the `GlobomaticsTests` folder.
 
+2. **Practical Exercises Tests:**
+   - Explore additional exercises from [Test Design](https://test-design.org/practical-exercises/) in the `PracticalExercisesTests` folder. These exercises offer practical hands-on experience to reinforce your Cypress skills.
 
